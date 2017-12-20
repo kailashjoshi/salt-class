@@ -1,4 +1,5 @@
-'*':
+base:
+  '*':
 
-'client*':
-  - apache
+  'client*':
+    - apache
