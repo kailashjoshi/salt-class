@@ -1,2 +1,2 @@
-# salt-class
+# salt-state
 Salt Test
